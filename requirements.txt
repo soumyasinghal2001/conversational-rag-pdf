@@ -14,5 +14,4 @@ python-dotenv
 pandas
 numpy
 streamlit
-tiktoken   # (optional, if using OpenAI models)
-streamlit-chat  # (optional for better UI)
+
