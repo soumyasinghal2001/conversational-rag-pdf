@@ -1,0 +1,18 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+faiss-cpu
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+pandas
+numpy
+streamlit
+tiktoken   # (optional, if using OpenAI models)
+streamlit-chat  # (optional for better UI)
